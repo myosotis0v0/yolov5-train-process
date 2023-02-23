@@ -18,3 +18,8 @@ yolov5源码地址：https://github.com/ultralytics/yolov5
 测试指令：python detect.py --source data/images/bus.jpg --weights pretrained/yolov5s.pt
 
 此处yolov5s.pt为预训练权重，需要在yolov5的github页面readme中点击下载：
+![image](https://github.com/myosotis0v0/yolov5-train-process/blob/main/img/2.png)
+
+下载完成后置于yolov5项目文件夹中新建的pretrained文件夹并执行测试指令，可在runs文件夹中看到标注了检测结果的bus.jpg
+
+
